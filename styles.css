@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+.search{
+	background: #720e9e;
+	width: 600px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.input{
+	width: 150px;
+	height: 20px;
+	padding: 7px;
+}
+
+.btn{
+	position: relative;
+	right: 33px;
+	height: 32px;
+	background: none;
+	border: none;
+}
